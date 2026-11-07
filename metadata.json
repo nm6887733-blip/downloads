@@ -1,0 +1,6 @@
+{
+  "name": "Astrocade: Void Vanguard",
+  "description": "An ultra-responsive sci-fi arcade space shooter featuring multi-layer starfields, distinct enemy AI archetypes, procedural Web Audio synth sound, boss encounters, and Astrocade MCP integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
